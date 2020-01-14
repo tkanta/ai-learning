@@ -1,0 +1,12 @@
+setup
+-----------
+Install R from Anaconda Navigator
+installing rstudio==1.1.456 on c:\Users\tarin\Anaconda3\envs\rstudio
+Launch R from Anaconda Navigator
+
+Once Installed, we can directly lunch it from R DeskTop Application
+
+IDE setup
+--------------
+working dir setup --> click (...) elipsis in File Tab and select the folder, then click More -> set as working dir
+r library --> packages TAB shows all r library

@@ -1,0 +1,13 @@
+IDE commands
+----------------
+CTRL + ENTER = Execute the selected code
+CTRL + 4 = multi-line comment
+CTRL + 5 = uncomment multi-line
+CTRL + 1 = single line comment
+
+IDE Setup
+--------------
+Working directory setup --> import the file from the folder and run the file(F5) to set the working dir. Also navigate the file in File Explorer
+change formatting in dataset(exponential to float) --> change formatting from %.6g to %.0f
+
+

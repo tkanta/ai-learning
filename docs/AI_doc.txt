@@ -1,0 +1,73 @@
+
+https://github.com/narayantalk2u/DataScience
+
+open anaconda prompt 
+jupyter notebook D:\GitHub\Datascience_Dir\DataScience\LectureNotes\DataVisualization.ipynb
+
+------------- 23-SEPT-2019 ---------------
+start anaconda cmd
+jupyter notebook D:\Documentations\Artifitial_Intelligence\lecture-1
+
+https://colab.research.google.com
+
+doc comment (''' ''')
+
+multiple assignment
+
+'False', 'None', 'True' -> keywords starts with capital letter in python
+
+List is implemented by Linkedlist in Python, there is no array in python
+Tupple is unmutable
+Set
+Dictionary
+conversion between datatypes
+
+
+
+--------------- 26-SEPT-2019 ----------------
+List:
+list argument -> len is last index, if the index is larger, it will append at last of list.
+del test[1:3] -> left is inclusive, right index is exclsive
+in/not in list
+sorted -> global method that act on list and return a new list.
+
+
+when you add a new value to a variable, a new memory location will be assigned to the variable.
+
+list(string) / string.split()
+
+--------------- 27-SEPT-2019 --------------------
+
+nested list comprehension:
+	[value forLoop condition]
+	
+	
+https://gstreamer.freedesktop.org/
+603	
+	
+
+============== 09-SEPT-2019 =============
+
+1. kaggle.com
+	https://github.com/narayantalk2u/AskMe
+Deep learning - NLP	
+
+The implementation uses a contiguous array of references to other objects, and keeps a pointer to this array and the array’s length in a list head structure.
+
+================= 29-OCT-2019 ====================
+
+EDA -> Feature Engineering -> model -> predict -> report
+
+univariable graph
+bi-varient graph
+multi-varient graph
+
+
+Area
+
+============= 05-
+
+corelation/co-varient
+Bell curve
+Mean / median / mode / IQR / SD
+outlier

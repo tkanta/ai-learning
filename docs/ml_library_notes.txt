@@ -1,0 +1,8 @@
+
+python
+-----------------
+numpy 			  --> python library for mathemetical calculation
+matplotlib.pyplot --> for drawing charts
+pandas 			  --> for importing datasets
+sklearn 		  --> library for machine learning models
+sklearn.preprocessing --> prepare missing data	
